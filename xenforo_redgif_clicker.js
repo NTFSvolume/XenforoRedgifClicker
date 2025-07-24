@@ -3,7 +3,7 @@
 // @version      1.0
 // @description  Load all redgifs on the current thread page
 // @author       NTFSvolume
-// @match        https://*.simpcity.su/watched/threads*
+// @match        https://*.simpcity.cr/watched/threads*
 // @grant        GM_xmlhttpRequest
 // @run-at       document-idle   // Wait until the page is fully loaded
 // ==/UserScript==
