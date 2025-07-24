@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Xenforo Redgifs Clicker
-// @version      1.0
+// @version      1.1
 // @description  Load all redgifs on the current thread page
 // @author       NTFSvolume
 // @match        https://*.simpcity.cr/watched/threads*
